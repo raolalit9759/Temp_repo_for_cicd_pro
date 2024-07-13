@@ -38,7 +38,7 @@ server {
         #
         # include snippets/snakeoil.conf;
 
-        #root /var/www/html;
+        D:\Hero_Vired\CICD_PIPELINE_PROJ\CI_CD_Pipeline\Html_project;
 
         # Add index.php to the list if you are using PHP
         #index index.html index.htm index.nginx-debian.html;
